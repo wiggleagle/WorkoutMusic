@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Workout Music</string>
+    <string name="featured_playlist">Featured Playlist</string>
+    <string name="by_workout">By Workout</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="song_title">Title</string>
+    <string name="song_artist">Artist</string>
+</resources>
